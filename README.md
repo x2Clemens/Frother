@@ -1,2 +1,2 @@
 # Frother
-A 3D sound/music editor programmed in JavaScript.
+A 3D sound/music editor.
