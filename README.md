@@ -1,2 +1,2 @@
 # Frother
-A 3D sound/music editor.
+no idea what this will be
